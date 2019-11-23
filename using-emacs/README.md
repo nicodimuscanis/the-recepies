@@ -1,1 +1,1 @@
-- [Useful commands of Emacs _Russian lang_](https://github.com/nicodimuscanis/the-recepies/blob/master/using-vim/how-to-use-vim-as-mergetool.md)
+- [Useful commands of Emacs _Russian lang_](https://github.com/nicodimuscanis/the-recepies/blob/master/using-emacs/useful-commands-ru.md)
