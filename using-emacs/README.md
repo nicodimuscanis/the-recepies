@@ -1,1 +1,1 @@
-- [Useful commands of Emacs _Russian lang_](https://github.com/nicodimuscanis/the-recepies/blob/master/using-emacs/useful-commands-ru.md)
+- [Useful commands of Emacs _(Russian lang)_](https://github.com/nicodimuscanis/the-recepies/blob/master/using-emacs/useful-commands-ru.md)
