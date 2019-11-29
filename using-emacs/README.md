@@ -1,2 +1,2 @@
 - [My list of useful commands of Emacs _(Russian lang)_](https://github.com/nicodimuscanis/the-recepies/blob/master/using-emacs/useful-commands-ru.md)
-- [Great tutorial](http://http://ergoemacs.org/)
+- [Great tutorial](http://ergoemacs.org/)
