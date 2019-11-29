@@ -1,6 +1,11 @@
 # Шпаргалка Emacs
 - Выход `C-x-c`
 - Отмена `C-g`
+- Загрузка `.emacs` не выходя из редактора (также работает с другими Lisp файлами), 2 способа:
+  1. `M-x` `load-file` `~</path>/.emacs`
+  2. В буффере с открытым Lisp скриптом `M-x` `eval-buffer`
+  3. Выбрать регион, затем `M-x` `eval-region`
+  4. См больше на [Stackoverflow](https://stackoverflow.com/questions/2580650/how-can-i-reload-emacs-after-changing-it)
 - Переключение между буферами, 3 способа: 
   1. `C-x` `b` `<name>`
   2. `C-x` `<влево|вправо>` 
