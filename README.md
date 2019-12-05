@@ -40,7 +40,7 @@ You are ready to install a package now. For example:
 - `apt-cyg list` -- will list all installed packeges
 - `apt-cyg` -- usage help.
 
-# How to enable semihosting on STM ARM processor
+# How to enable semihosting on STM32 ARM processor
 1. Add `-specs=rdimon.specs -lc -lrdimon` into linker options
 2. Make sure linker options also contain `-u _printf_float` and/or `-u _scanf_float`
 3. Remove `-specs=nano.specs` from linker options if any.
