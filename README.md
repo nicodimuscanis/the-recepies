@@ -26,7 +26,7 @@ Briefly:
 - run `setup-x86.exe -X` to prevent signature verification
 - add `http://cygwin-xp.portfolis.net/cygwin` to the mirror list
 
-Note, lates versions of `setup-x86[_64].exe` don't work on XP, even though you run it with `--allow-unsupported-windows` option you will not able to install Cygwin, because mirrors list will be empty. If you try to add either normal `http://cygwin.mirror.constant.com` or mirror with old versions from above `http://cygwin-xp.portfolis.net/cygwin` installation will fails anyways.
+Note, latest versions of `setup-x86[_64].exe` don't work on XP, even though you run it with `--allow-unsupported-windows` option you will not able to install Cygwin, because mirrors list will be empty. If you try to add either normal `http://cygwin.mirror.constant.com` or mirror with old versions from above `http://cygwin-xp.portfolis.net/cygwin` installation will fails anyways.
 
 # How to install Cygwin packages in Debian `apt-get` manner
 Tested on WinXP
